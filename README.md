@@ -1,5 +1,3 @@
 # Ping
 
-test
-
-test6
+first commit
