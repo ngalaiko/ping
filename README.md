@@ -1,5 +1,3 @@
 # Ping
 
 force push!!
-
-commit
